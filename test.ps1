@@ -1,5 +1,5 @@
 param(
-  [string]$name
+  [string]$name=""
 }
 
 
